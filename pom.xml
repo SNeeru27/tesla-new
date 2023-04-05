@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-new</finalName>
+		<finalName>tesla-pipe</finalName>
 		
 		<plugins>
 			<plugin>
