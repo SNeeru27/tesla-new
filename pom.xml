@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://18.117.88.220:8081/repository/Tesla-nreleases/</url> 
+	      <url>http://3.132.214.252:8081/repository/Tesla-nreleases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.117.88.220:8081/repository/Tesla-nsnapshots/</url>
+	      <url>http://3.132.214.252:8081/repository/Tesla-nsnapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
