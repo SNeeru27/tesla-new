@@ -96,18 +96,18 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.142.148.178:8081/repository/Tesla-nreleases/</url> 
+	      <url>http://18.188.136.236:8081/repository/Tesla-nreleases/</url> 
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.142.148.178:8081/repository/Tesla-nsnapshots/</url>
+	      <url>http://18.188.136.236:8081/repository/Tesla-nsnapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla-master</finalName>
+		<finalName>jenkins-library</finalName>
 		
 		<plugins>
 			<plugin>
